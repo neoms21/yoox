@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="27px" viewBox="0 0 50 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Up_Arrow/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-211.000000, -4743.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Up_Arrow/White/64px" transform="translate(0.000000, 480.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="55.293 42.707 32 19.414 8.707 42.707 7.293 41.293 32 16.586 56.707 41.293"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="56px" viewBox="0 0 40 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Delete/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-696.000000, -4251.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Delete/White/64px" transform="translate(480.000000, 0.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M43.518,6.717 C39.869,5.565 36.004,4.94 32,4.94 C27.996,4.94 24.131,5.566 20.482,6.717 C15.439,8.31 12,13.127 12,18.569 L12,19 L12,60 L52,60 L52,19 L52,18.569 C52,13.127 48.561,8.31 43.518,6.717 Z M50,58 L14,58 L14,21 L50,21 L50,58 Z M14,19 L14,18.569 C14,13.959 16.847,9.963 21.084,8.624 C24.625,7.507 28.298,6.94 32,6.94 C35.702,6.94 39.375,7.507 42.915,8.625 C47.153,9.963 50,13.96 50,18.569 L50,19 L14,19 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

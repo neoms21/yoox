@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="53px" viewBox="0 0 58 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/WhatsNew/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-399.000000, -4734.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/WhatsNew/White/64px" transform="translate(192.000000, 480.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M55.576,9.232 C53.015,7.694 50.009,7.245 47.112,7.967 C44.214,8.69 41.771,10.497 40.233,13.057 L32,26.76 L23.768,13.06 C20.592,7.775 13.709,6.059 8.424,9.234 C5.864,10.772 4.056,13.215 3.334,16.113 C2.611,19.011 3.06,22.017 4.599,24.577 C6.628,27.954 10.194,29.982 14.143,30.001 L30.052,30.001 L12.027,60 L14.36,60 L32,30.644 L49.639,60 L51.972,60 L33.946,30 L49.862,30 C53.806,29.98 57.372,27.953 59.401,24.576 C60.939,22.015 61.388,19.01 60.666,16.112 C59.944,13.214 58.136,10.771 55.576,9.232 Z M14.148,28.001 C10.909,27.985 7.98,26.32 6.314,23.547 C5.051,21.444 4.682,18.976 5.275,16.596 C5.868,14.217 7.353,12.21 9.455,10.947 C13.795,8.34 19.446,9.749 22.054,14.089 L30.413,28.001 L14.148,28.001 Z M57.687,23.546 C56.021,26.319 53.092,27.984 49.857,28 L33.587,28 L41.946,14.088 C43.209,11.986 45.215,10.501 47.595,9.908 C49.975,9.315 52.443,9.683 54.545,10.947 C56.647,12.21 58.131,14.216 58.725,16.595 C59.319,18.976 58.95,21.443 57.687,23.546 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

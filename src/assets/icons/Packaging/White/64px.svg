@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Packaging/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-784.000000, -4539.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Packaging/White/64px" transform="translate(576.000000, 288.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M46.833,16 C47.206,15.622 47.542,15.2 47.825,14.73 C49.74,11.544 48.705,7.394 45.519,5.479 C42.331,3.564 38.182,4.6 36.268,7.786 L31.995,14.896 L27.73,7.799 C25.816,4.613 21.665,3.577 18.479,5.492 C16.936,6.42 15.846,7.893 15.41,9.64 C14.974,11.388 15.245,13.2 16.173,14.743 C16.452,15.208 16.785,15.624 17.153,16 L4,16 L4,60 L60,60 L60,16 L46.833,16 Z M37.983,8.815 C39.33,6.574 42.249,5.847 44.489,7.193 C46.73,8.54 47.457,11.459 46.111,13.7 C45.251,15.132 43.739,15.992 42.07,16 L33.666,16 L37.983,8.815 Z M17.889,13.713 C17.237,12.628 17.046,11.353 17.353,10.124 C17.659,8.896 18.426,7.859 19.512,7.207 C21.753,5.86 24.672,6.588 26.019,8.829 L30.325,16 L21.736,16 C20.143,15.926 18.715,15.088 17.889,13.713 Z M6,18 L21.73,18 C21.797,18.002 21.862,18.013 21.929,18.014 L31,18.014 L31,37 L6,37 L6,18 Z M6,58 L6,39 L31,39 L31,58 L6,58 Z M58,58 L33,58 L33,39 L58,39 L58,58 Z M33,37 L33,18 L42.075,18 L58,18 L58,37 L33,37 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

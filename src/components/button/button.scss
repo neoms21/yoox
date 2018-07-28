@@ -1,0 +1,74 @@
+$bg-button: #000;
+
+.button-container {
+  width: 190px;
+  position: relative;
+}
+
+@mixin after($pos) {
+  content: "";
+  position: absolute;
+  top: -5px;
+  border-left: 5px solid black;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-top: solid 5px black;
+  left: $pos;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.button {
+  background-color: $bg-button;
+  color: #fff;
+  height: 40px;
+  border-radius: 2px;
+  outline: 0;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+
+  img {
+    height: 20px;
+    width: 20px;
+    margin-right: 20px;
+  }
+}
+
+.button:hover {
+  background-color: rgba($color: $bg-button, $alpha: 0.5);
+}
+
+.tooltip-container {
+  width: 100%;
+  display: flex;
+  margin-top: 20px;
+  flex-direction: column;
+  position: relative;
+}
+
+.tooltip-container-left:after {
+  @include after(10%);
+}
+
+.tooltip-container-right:after {
+  @include after(90%);
+}
+
+.tt-button {
+  @extend .button;
+  width: 100%;
+  border: 0;
+  border-radius: 0;
+  display: block;
+  text-align: left;
+}
+
+.tt-button:hover {
+  background-color: rgba($color: $bg-button, $alpha: 0.5);
+
+  .tooltip-container:after {
+    background-color: rgba($color: $bg-button, $alpha: 0.5);
+  }
+}

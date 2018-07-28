@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="62px" viewBox="0 0 64 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/FavouritesOn/Black/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-300.000000, -3671.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="icons" transform="translate(84.000000, 3246.000000)">
+                    <g id="Elements/Icon/FavouritesOn/Black/64px" transform="translate(96.000000, 192.000000)">
+                        <g>
+                            <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                            <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="32 0.517 23.837 24 0 24 18.802 38.691 12.445 61.69 32 48.502 51.555 61.69 45.199 38.691 64 24 40.163 24"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

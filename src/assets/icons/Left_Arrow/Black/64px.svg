@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="50px" viewBox="0 0 27 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Left_Arrow/Black/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-220.000000, -3774.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="icons" transform="translate(84.000000, 3246.000000)">
+                    <g id="Elements/Icon/Left_Arrow/Black/64px" transform="translate(0.000000, 288.000000)">
+                        <g>
+                            <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                            <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="41.293 56.707 16.586 32 41.293 7.293 42.707 8.707 19.414 32 42.707 55.293"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

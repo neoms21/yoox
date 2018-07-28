@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="55px" viewBox="0 0 52 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Account/Black/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-210.000000, -3484.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="icons" transform="translate(84.000000, 3246.000000)">
+                    <g id="Elements/Icon/Account/Black/64px">
+                        <g>
+                            <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                            <path d="M33.945,34.798 L39.311,31.573 C42.562,29.619 44.858,26.517 45.776,22.836 C46.693,19.156 46.123,15.339 44.169,12.088 C41.582,7.782 37.035,5.207 32.005,5.2 L32.002,5.2 C26.972,5.207 22.425,7.782 19.837,12.088 C15.805,18.799 17.984,27.541 24.695,31.573 L30.061,34.798 L6,49.256 L6,60 L58,60 L58,49.252 L33.945,34.798 Z M25.726,29.859 C19.959,26.394 18.087,18.884 21.552,13.118 C23.775,9.419 27.682,7.206 32.004,7.2 C36.326,7.206 40.233,9.419 42.456,13.118 C44.135,15.911 44.625,19.191 43.837,22.353 C43.049,25.515 41.076,28.181 38.282,29.859 L32.004,33.631 L25.726,29.859 Z M56,58 L8,58 L8,50.388 L32.003,35.965 L56,50.383 L56,58 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

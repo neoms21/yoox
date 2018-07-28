@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Warning/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-304.000000, -4731.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Warning/White/64px" transform="translate(96.000000, 480.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M32,42.25 C31.033,42.25 30.25,43.034 30.25,44 C30.25,44.966 31.033,45.75 32,45.75 C32.967,45.75 33.75,44.966 33.75,44 C33.75,43.034 32.967,42.25 32,42.25 Z M33,19 L31,19 L31,37 L33,37 L33,19 Z M32,4 C16.536,4 4,16.536 4,32 C4,47.464 16.536,60 32,60 C47.464,60 60,47.464 60,32 C60,16.536 47.464,4 32,4 Z M32,58 C17.664,58 6,46.336 6,32 C6,17.664 17.664,6 32,6 C46.336,6 58,17.664 58,32 C58,46.336 46.336,58 32,58 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

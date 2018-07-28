@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="55px" viewBox="0 0 53 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Designers/Black/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-209.000000, -3580.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="icons" transform="translate(84.000000, 3246.000000)">
+                    <g id="Elements/Icon/Designers/Black/64px" transform="translate(0.000000, 96.000000)">
+                        <g>
+                            <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                            <path d="M38.006,58 L56.032,28 L32.406,28 L22.511,5.775 L5.937,43 L8.127,43 L13.915,30 L31.107,30 L36.895,43 L39.084,43 L33.296,30 L52.496,30 L34.471,60 L58,60 L58,58 L38.006,58 Z M14.805,28 L22.511,10.692 L30.217,28 L14.805,28 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

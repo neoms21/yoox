@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="62px" viewBox="0 0 64 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Favourites_Overlay/Black/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-780.000000, -3575.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="icons" transform="translate(84.000000, 3246.000000)">
+                    <g id="Elements/Icon/Favourites_Overlay/Black/64px" transform="translate(576.000000, 96.000000)">
+                        <g>
+                            <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                            <path d="M52.918,32.659 L64,24 L50.292,24 C47.413,18.9 42.469,15.114 36.612,13.787 L32,0.517 L27.388,13.787 C21.53,15.114 16.586,18.9 13.708,24 L0,24 L11.082,32.659 C11.041,33.188 11,33.717 11,34.256 C11,39.526 12.981,44.344 16.217,48.041 L12.445,61.69 L24.232,53.741 C26.64,54.709 29.257,55.256 32,55.256 C34.743,55.256 37.36,54.709 39.768,53.741 L51.555,61.69 L47.783,48.041 C51.019,44.344 53,39.526 53,34.256 C53,33.717 52.959,33.188 52.918,32.659 Z M58.192,26 L52.62,30.354 C52.332,28.841 51.89,27.382 51.293,26 L58.192,26 Z M32,6.608 L34.36,13.399 C33.584,13.311 32.798,13.256 32,13.256 C31.201,13.256 30.416,13.311 29.64,13.399 L32,6.608 Z M5.808,26 L12.707,26 C12.111,27.382 11.669,28.841 11.38,30.354 L5.808,26 Z M15.815,57.005 L17.835,49.693 C19.127,50.88 20.554,51.922 22.11,52.759 L15.815,57.005 Z M41.89,52.76 C43.446,51.923 44.873,50.881 46.165,49.694 L48.186,57.006 L41.89,52.76 Z M32,53.256 C21.523,53.256 13,44.733 13,34.256 C13,23.779 21.523,15.256 32,15.256 C42.477,15.256 51,23.78 51,34.256 C51,44.733 42.477,53.256 32,53.256 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

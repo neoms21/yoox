@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="44px" viewBox="0 0 56 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Fullscreen/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-496.000000, -4449.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Fullscreen/White/64px" transform="translate(288.000000, 192.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M58,48 C58,50.206 56.206,52 54,52 L10,52 C7.794,52 6,50.206 6,48 L6,16 C6,13.794 7.794,12 10,12 L39,12 L39,10 L10,10 C6.686,10 4,12.686 4,16 L4,48 C4,51.313 6.686,54 10,54 L54,54 C57.314,54 60,51.313 60,48 L60,31 L58,31 L58,48 Z M45,10 L45,12 L56.515,12 L43.852,24.338 L45.248,25.771 L58,13.345 L58,25 L60,25 L60,10 L45,10 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

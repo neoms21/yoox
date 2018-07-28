@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/MRPBag/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-496.000000, -4539.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/MRPBag/White/64px" transform="translate(288.000000, 288.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M43,18 L43,15.75 C43,9.685 38.065,4.75 32,4.75 C25.935,4.75 21,9.685 21,15.75 L21,18 L4,18 L4,60 L60,60 L60,18 L43,18 Z M23,15.75 C23,10.787 27.037,6.75 32,6.75 C36.963,6.75 41,10.787 41,15.75 L41,18 L23,18 L23,15.75 Z M41,20 L41,58 L23,58 L23,20 L41,20 Z M6,20 L21,20 L21,58 L6,58 L6,20 Z M58,58 L43,58 L43,20 L58,20 L58,58 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

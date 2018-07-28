@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button unit tests should render the button component  1`] = `
+<div
+  className="button-container"
+  style={
+    Object {
+      "width": undefined,
+    }
+  }
+>
+  <button
+    className="button "
+    id="btnMain-aa"
+    onClick={[Function]}
+  />
+</div>
+`;

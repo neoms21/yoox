@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="55px" viewBox="0 0 44 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Elements/Icon/Search/White/64px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Iconography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-692.000000, -4636.000000)">
+        <g id="block" transform="translate(120.000000, 233.000000)">
+            <g id="Group">
+                <g id="64px-white" transform="translate(0.000000, 3934.000000)">
+                    <g id="icons" transform="translate(84.000000, 80.000000)">
+                        <g id="Elements/Icon/Search/White/64px" transform="translate(480.000000, 384.000000)">
+                            <g>
+                                <rect id="Rectangle-path" transform="translate(32.000000, 32.000000) rotate(90.000000) translate(-32.000000, -32.000000) " x="-7.10542736e-15" y="0" width="64" height="64"></rect>
+                                <path d="M48.855,16.004 C44.729,9.137 37.448,5.333 29.98,5.333 L29.979,5.333 C26.123,5.333 22.217,6.348 18.671,8.478 C8.258,14.735 4.888,28.249 11.145,38.663 C15.271,45.53 22.553,49.334 30.021,49.334 C33.635,49.334 37.29,48.43 40.654,46.563 L48.728,60 L51.061,60 L42.35,45.502 C51.94,38.992 54.898,26.062 48.855,16.004 Z M40.299,44.474 C37.186,46.345 33.632,47.334 30.021,47.334 C22.925,47.334 16.509,43.708 12.859,37.633 C7.18,28.182 10.25,15.872 19.701,10.194 C22.814,8.323 26.368,7.335 29.979,7.335 L29.98,7.335 C37.075,7.335 43.49,10.962 47.14,17.036 C49.891,21.614 50.695,26.99 49.402,32.172 C48.11,37.354 44.877,41.723 40.299,44.474 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
